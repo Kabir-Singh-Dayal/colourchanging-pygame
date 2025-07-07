@@ -1,5 +1,5 @@
 import pygame
-
+#starts here
 def main():
     pygame.init()
     screen_width, screen_height = 500, 500
